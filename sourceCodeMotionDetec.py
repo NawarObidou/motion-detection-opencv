@@ -4,7 +4,7 @@
 # an important note to make about the camera feed
 # the counter is inaccurate
 # noise detection has been minimised as much as possible
-
+ 
 # import necessary libraries
 from tkinter import *
 import cv2
