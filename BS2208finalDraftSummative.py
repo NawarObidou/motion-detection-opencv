@@ -1,11 +1,9 @@
-# BS2208 summative prototype code
+# prototype code
 
 # This is the code that makes the live monitoring system work
-# an important note to make about the final product and some of its shortcomings
+# an important note to make about the camera feed
 # the counter is inaccurate
 # noise detection has been minimised as much as possible
-# the program is only capable of saving one recording, which is the latest one
-# for future development, these shortcomings of the program will be fixed to ensure optimal functionality
 
 # import necessary libraries
 from tkinter import *
